@@ -9,7 +9,7 @@
 >the point in the orbit of a planet, asteroid, or comet at which it is closest to the sun.
 
 
-Perihelion OS is an operating system for satellites based on the Linux kernel and Debian distribution. It comes with NASA's Core Flight Executive built-in and ready to use out of the box.
+Perihelion OS is an operating system for satellites based on the Linux™ kernel and Debian distribution. It comes with [NASA's Core Flight Executive](https://cfs.gsfc.nasa.gov/) built-in and ready to use out of the box.
 
 It can be used on any Linux-compatible hardware.
 Currently supports Raspberry Pi-based systems only.
